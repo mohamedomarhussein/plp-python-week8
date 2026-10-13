@@ -1,0 +1,16 @@
+Toolkit Plan
+
+Tool 1: Number Guessing Game
+- Description: The computer picks a random number between 1 and 50, and the user tries to guess it.
+- Menu text: "1. Guess the Number"
+- Concepts used: while loop, if/else, user input, f-string, random module
+
+Tool 2: To-Do List
+- Description: A simple list manager where users can add tasks, view tasks, and remove tasks.
+- Menu text: "2. To-Do List"
+- Concepts used: list (append, remove), while loop, if/elif/else, f-string
+
+Tool 3: Simple Calculator
+- Description: Takes two numbers and an operator (+, -, *, /) and prints the result.
+- Menu text: "3. Simple Calculator"
+- Concepts used: if/elif/else, float conversion, f-string
